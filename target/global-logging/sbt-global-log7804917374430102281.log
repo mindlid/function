@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(a60e8d25-a536-4a85-8231-b914cf8bec08), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@7227926b, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Volumes/sdrive/projects/function/target/scala-3.0.1/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E040] Syntax Error: /Volumes/sdrive/projects/function/src/main/scala/Main.scala:43:1 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m43 |[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m   | [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   | '}' expected, but eof found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Aug 17, 2021, 8:41:16 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
